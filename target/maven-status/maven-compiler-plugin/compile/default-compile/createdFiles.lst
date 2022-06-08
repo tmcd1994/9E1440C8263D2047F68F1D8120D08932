@@ -1,0 +1,5 @@
+webservice\PriorityListWsApplication.class
+webservice\PriorityListResource.class
+webservice\WorkOrderComparator.class
+webservice\PriorityService.class
+webservice\WorkOrder.class
